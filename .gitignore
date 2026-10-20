@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+rent-sloth-out/
+*.gguf
+.env
+inbox-private/

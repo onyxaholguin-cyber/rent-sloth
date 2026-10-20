@@ -1,0 +1,9 @@
+From: Venmo <venmo@venmo.example>
+Date: Sat, 5 Dec 2026 09:15:03 -0700
+Subject: You paid Grace Kim $35.00
+
+You paid Grace Kim $35.00
+"smoke detector batteries - thanks!"
+
+Transaction ID 4400918822615
+Dec 5, 2026

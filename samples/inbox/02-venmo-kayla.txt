@@ -1,0 +1,10 @@
+From: Venmo <venmo@venmo.example>
+Date: Sun, 1 Nov 2026 08:03:55 -0600
+Subject: Kayla Price paid you $750.00
+
+Kayla Price paid you $750.00
+"rent nov half 🏠"
+
+Transaction ID 4271930055812
+Nov 1, 2026
+Money credited to your Venmo balance.

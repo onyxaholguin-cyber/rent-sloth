@@ -1,0 +1,9 @@
+date,unit,payer,amount,memo,reference,matched_by,status,note,source
+2026-10-31,1A,Maria Lopez,1350.0,Nov rent 1A,ZL8842QX1,name,ok,,01-zelle-lopez
+2026-11-01,1B,Kayla Price,750.0,rent nov half 🏠,4271930055812,name,ok,,02-venmo-kayla
+2026-11-01,1B,Devon Price,750.0,other half,4271932210467,name,ok,,03-venmo-devon
+2026-11-01,3A,Ana Romero,1650.0,,ZL8851MB4,name,ok,,06-zelle-romero
+2026-11-02,2A,Samuel Okafor,1200.0,Apt 2A November,#D5RT7KQ,name,ok,,04-cashapp-okafor
+2026-11-03,,J Rivera,85.0,laundry card,ZL8873AA9,,CHECK,no tenant or unit matched,12-zelle-rivera
+2026-11-03,2B,,650.0,ACH CREDIT PRIYA NAIR RENT PMT,091000019283746,name,ok,,05-ach-nair
+2026-11-04,,,300.0,,1042,,CHECK,no tenant or unit matched; payer: no payer named (model said 'First Prairie Bank'),11-mobile-check

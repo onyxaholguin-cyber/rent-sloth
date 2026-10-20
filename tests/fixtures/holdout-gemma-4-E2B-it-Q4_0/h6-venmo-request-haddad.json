@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "payment_request",
+  "payer": {
+   "value": "Lena Haddad",
+   "quote": "Lena Haddad"
+  },
+  "amount": {
+   "value": 40.0,
+   "quote": "$40.00"
+  },
+  "date": {
+   "value": "2026-12-03",
+   "quote": "Thu, 3 Dec 2026"
+  },
+  "memo": {
+   "value": "furnace filter + batteries, receipt attached",
+   "quote": "furnace filter + batteries, receipt attached"
+  },
+  "reference": {
+   "value": "",
+   "quote": ""
+  }
+ },
+ "meta": {
+  "seconds": 6.1,
+  "usage": {
+   "completion_tokens": 185,
+   "prompt_tokens": 281,
+   "total_tokens": 466,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

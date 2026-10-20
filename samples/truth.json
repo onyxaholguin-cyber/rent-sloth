@@ -1,0 +1,18 @@
+{"month": "2026-11", "as_of": "2026-11-04",
+ "messages": {
+  "01-zelle-lopez": {"kind": "money_received", "payer": "Maria Lopez", "amount": 1350, "date": "2026-10-31", "unit": "1A"},
+  "02-venmo-kayla": {"kind": "money_received", "payer": "Kayla Price", "amount": 750, "date": "2026-11-01", "unit": "1B"},
+  "03-venmo-devon": {"kind": "money_received", "payer": "Devon Price", "amount": 750, "date": "2026-11-01", "unit": "1B"},
+  "04-cashapp-okafor": {"kind": "money_received", "payer": "Samuel Okafor", "amount": 1200, "date": "2026-11-02", "unit": "2A"},
+  "05-ach-nair": {"kind": "money_received", "payer": "Priya Nair", "amount": 650, "date": "2026-11-03", "unit": "2B"},
+  "06-zelle-romero": {"kind": "money_received", "payer": "Ana Romero", "amount": 1650, "date": "2026-11-01", "unit": "3A"},
+  "07-venmo-request-becker": {"kind": "payment_request"},
+  "08-promo": {"kind": "not_a_payment"},
+  "09-zelle-lopez-again": {"kind": "money_received", "payer": "Maria Lopez", "amount": 1350, "date": "2026-10-31", "unit": "duplicate"},
+  "10-refund-romero": {"kind": "money_sent"},
+  "11-mobile-check": {"kind": "money_received", "payer": "", "amount": 300, "date": "2026-11-04", "unit": "CHECK"},
+  "12-zelle-rivera": {"kind": "money_received", "payer": "J Rivera", "amount": 85, "date": "2026-11-03", "unit": "CHECK"},
+  "13-venmo-becker-october": {"kind": "money_received", "payer": "Tom Becker", "amount": 1400, "date": "2026-10-02", "unit": "other month"}
+ },
+ "units": {"1A": "Paid", "1B": "Paid", "2A": "Paid", "2B": "Partial ($650.00 short)", "3A": "Paid", "3B": "Not yet"}
+}

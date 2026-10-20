@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "money_received",
+  "payer": {
+   "value": "Tom Becker",
+   "quote": "Tom Becker"
+  },
+  "amount": {
+   "value": 1400,
+   "quote": "$1,400.00"
+  },
+  "date": {
+   "value": "2026-10-02",
+   "quote": "Oct 2, 2026"
+  },
+  "memo": {
+   "value": "oct rent",
+   "quote": "\"oct rent\""
+  },
+  "reference": {
+   "value": "4198820017733",
+   "quote": "Transaction ID 4198820017733"
+  }
+ },
+ "meta": {
+  "seconds": 6.7,
+  "usage": {
+   "completion_tokens": 204,
+   "prompt_tokens": 296,
+   "total_tokens": 500,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

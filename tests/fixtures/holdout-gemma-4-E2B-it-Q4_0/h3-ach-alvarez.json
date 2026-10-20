@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "money_received",
+  "payer": {
+   "value": "ALVAREZ, BETH M",
+   "quote": "ALVAREZ, BETH M"
+  },
+  "amount": {
+   "value": 990.0,
+   "quote": "990.00"
+  },
+  "date": {
+   "value": "2026-12-03",
+   "quote": "12/03/2026"
+  },
+  "memo": {
+   "value": "RENT",
+   "quote": "RENT"
+  },
+  "reference": {
+   "value": "121042882210077",
+   "quote": "121042882210077"
+  }
+ },
+ "meta": {
+  "seconds": 7.8,
+  "usage": {
+   "completion_tokens": 213,
+   "prompt_tokens": 314,
+   "total_tokens": 527,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

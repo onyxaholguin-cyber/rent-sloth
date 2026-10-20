@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "money_received",
+  "payer": {
+   "value": "Grace Kim",
+   "quote": "Grace Kim"
+  },
+  "amount": {
+   "value": 1100.0,
+   "quote": "$1,100.00 USD"
+  },
+  "date": {
+   "value": "2026-12-01",
+   "quote": "Dec 1, 2026"
+  },
+  "memo": {
+   "value": "Dec rent #101",
+   "quote": "Dec rent #101"
+  },
+  "reference": {
+   "value": "7KX20931LM448220P",
+   "quote": "Transaction ID: 7KX20931LM448220P"
+  }
+ },
+ "meta": {
+  "seconds": 8.8,
+  "usage": {
+   "completion_tokens": 220,
+   "prompt_tokens": 305,
+   "total_tokens": 525,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

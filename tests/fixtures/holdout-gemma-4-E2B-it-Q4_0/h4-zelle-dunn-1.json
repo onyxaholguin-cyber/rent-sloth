@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "money_received",
+  "payer": {
+   "value": "Chris Dunn",
+   "quote": "Chris Dunn"
+  },
+  "amount": {
+   "value": 625.0,
+   "quote": "$625.00"
+  },
+  "date": {
+   "value": "2026-12-01",
+   "quote": "12/01/2026"
+  },
+  "memo": {
+   "value": "half of dec",
+   "quote": "half of dec"
+  },
+  "reference": {
+   "value": "ZD55100",
+   "quote": "ZD55100"
+  }
+ },
+ "meta": {
+  "seconds": 6.7,
+  "usage": {
+   "completion_tokens": 189,
+   "prompt_tokens": 288,
+   "total_tokens": 477,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

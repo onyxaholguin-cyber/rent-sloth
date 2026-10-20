@@ -1,0 +1,11 @@
+From: Riverbend Credit Union <alerts@riverbendcu.example>
+Date: Sat, 31 Oct 2026 18:42:10 -0600
+Subject: You received money with Zelle
+
+Maria Lopez sent you $1,350.00
+
+Memo: Nov rent 1A
+Date: October 31, 2026
+Confirmation number: ZL8842QX1
+
+The money is in your account. Questions? Call 1-800-555-0144.

@@ -1,0 +1,8 @@
+From: Summit State Bank <alerts@summitstate.example>
+Date: Tue, 1 Dec 2026 12:01:15 -0700
+Subject: Zelle payment received
+
+Chris Dunn sent you $625.00 with Zelle.
+Memo: half of dec
+Date: 12/01/2026
+Reference: ZD55100

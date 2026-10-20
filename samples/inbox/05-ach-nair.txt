@@ -1,0 +1,8 @@
+From: First Prairie Bank <noreply@firstprairie.example>
+Date: Tue, 3 Nov 2026 06:10:00 -0600
+Subject: Deposit posted to checking ...4417
+
+A deposit of $650.00 posted to your checking account ending in 4417 on 11/03/2026.
+
+Description: ACH CREDIT PRIYA NAIR RENT PMT
+Trace number: 091000019283746

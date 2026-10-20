@@ -1,0 +1,6 @@
+From: Venmo <venmo@venmo.example>
+Date: Fri, 4 Dec 2026 22:10:31 -0700
+Subject: New sign-in to your account
+
+We noticed a new sign-in to your Venmo account from Chrome on Windows on Dec 4, 2026.
+If this was you, there's nothing else to do.

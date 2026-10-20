@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "money_received",
+  "payer": {
+   "value": "Venmo <venmo@venmo.example>",
+   "quote": "Venmo <venmo@venmo.example>"
+  },
+  "amount": {
+   "value": 35.0,
+   "quote": "$35.00"
+  },
+  "date": {
+   "value": "2026-12-05",
+   "quote": "Dec 5, 2026"
+  },
+  "memo": {
+   "value": "smoke detector batteries - thanks!",
+   "quote": "\"smoke detector batteries - thanks!\""
+  },
+  "reference": {
+   "value": "4400918822615",
+   "quote": "Transaction ID 4400918822615"
+  }
+ },
+ "meta": {
+  "seconds": 8.0,
+  "usage": {
+   "completion_tokens": 225,
+   "prompt_tokens": 293,
+   "total_tokens": 518,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

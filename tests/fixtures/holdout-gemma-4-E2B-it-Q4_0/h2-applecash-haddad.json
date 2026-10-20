@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "money_received",
+  "payer": {
+   "value": "Apple",
+   "quote": "From: Apple <no_reply@apple.example>"
+  },
+  "amount": {
+   "value": 1475.0,
+   "quote": "$1,475.00"
+  },
+  "date": {
+   "value": "2026-12-02",
+   "quote": "December 2, 2026"
+  },
+  "memo": {
+   "value": "Omar Haddad sent you money",
+   "quote": "Omar Haddad sent you money"
+  },
+  "reference": {
+   "value": "",
+   "quote": ""
+  }
+ },
+ "meta": {
+  "seconds": 7.2,
+  "usage": {
+   "completion_tokens": 190,
+   "prompt_tokens": 271,
+   "total_tokens": 461,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "not_a_payment",
+  "payer": {
+   "value": "Venmo <venmo@venmo.example> ",
+   "quote": "Venmo <venmo@venmo.example> "
+  },
+  "amount": {
+   "value": 0,
+   "quote": ""
+  },
+  "date": {
+   "value": "2026-12-04",
+   "quote": "Dec 4, 2026"
+  },
+  "memo": {
+   "value": "New sign-in to your account",
+   "quote": "New sign-in to your account"
+  },
+  "reference": {
+   "value": "",
+   "quote": ""
+  }
+ },
+ "meta": {
+  "seconds": 6.5,
+  "usage": {
+   "completion_tokens": 163,
+   "prompt_tokens": 286,
+   "total_tokens": 449,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

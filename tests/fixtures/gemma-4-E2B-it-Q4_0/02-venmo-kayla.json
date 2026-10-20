@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "money_received",
+  "payer": {
+   "value": "Kayla Price",
+   "quote": "Kayla Price"
+  },
+  "amount": {
+   "value": 750.0,
+   "quote": "$750.00"
+  },
+  "date": {
+   "value": "2026-11-01",
+   "quote": "Nov 1, 2026"
+  },
+  "memo": {
+   "value": "rent nov half 🏠",
+   "quote": "rent nov half 🏠"
+  },
+  "reference": {
+   "value": "4271930055812",
+   "quote": "Transaction ID 4271930055812"
+  }
+ },
+ "meta": {
+  "seconds": 7.7,
+  "usage": {
+   "completion_tokens": 211,
+   "prompt_tokens": 305,
+   "total_tokens": 516,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "money_received",
+  "payer": {
+   "value": "Venmo <venmo@venmo.example>",
+   "quote": "Venmo <venmo@venmo.example>"
+  },
+  "amount": {
+   "value": 750.0,
+   "quote": "$750.00"
+  },
+  "date": {
+   "value": "2026-11-01",
+   "quote": "Nov 1, 2026"
+  },
+  "memo": {
+   "value": "\"other half\"",
+   "quote": "\"other half\""
+  },
+  "reference": {
+   "value": "4271932210467",
+   "quote": "Transaction ID 4271932210467"
+  }
+ },
+ "meta": {
+  "seconds": 7.7,
+  "usage": {
+   "completion_tokens": 220,
+   "prompt_tokens": 293,
+   "total_tokens": 513,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

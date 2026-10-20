@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "money_received",
+  "payer": {
+   "value": "Maria Lopez",
+   "quote": "Maria Lopez"
+  },
+  "amount": {
+   "value": 1350.0,
+   "quote": "$1,350.00"
+  },
+  "date": {
+   "value": "2026-10-31",
+   "quote": "October 31, 2026"
+  },
+  "memo": {
+   "value": "Nov rent 1A",
+   "quote": "Nov rent 1A"
+  },
+  "reference": {
+   "value": "ZL8842QX1",
+   "quote": "ZL8842QX1"
+  }
+ },
+ "meta": {
+  "seconds": 6.7,
+  "usage": {
+   "completion_tokens": 198,
+   "prompt_tokens": 304,
+   "total_tokens": 502,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

@@ -1,0 +1,10 @@
+From: PayPal <service@paypal.example>
+Date: Tue, 1 Dec 2026 07:12:44 -0700
+Subject: You've got money
+
+Hello,
+Grace Kim sent you $1,100.00 USD.
+
+Note from Grace Kim: "Dec rent #101"
+Transaction ID: 7KX20931LM448220P
+Transaction date: Dec 1, 2026

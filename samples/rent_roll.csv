@@ -1,0 +1,7 @@
+unit,tenants,rent,due_day,grace_days
+1A,Maria Lopez,1350,1,5
+1B,Devon Price;Kayla Price,1500,1,5
+2A,Sam Okafor,1200,1,5
+2B,Priya Nair,1300,1,5
+3A,Luis Romero;Ana Romero,1650,1,5
+3B,Tom Becker,1400,1,5

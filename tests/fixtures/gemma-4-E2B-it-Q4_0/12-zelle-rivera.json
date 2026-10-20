@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "money_received",
+  "payer": {
+   "value": "J Rivera",
+   "quote": "J Rivera"
+  },
+  "amount": {
+   "value": 85.0,
+   "quote": "$85.00"
+  },
+  "date": {
+   "value": "2026-11-03",
+   "quote": "November 3, 2026"
+  },
+  "memo": {
+   "value": "laundry card",
+   "quote": "laundry card"
+  },
+  "reference": {
+   "value": "ZL8873AA9",
+   "quote": "ZL8873AA9"
+  }
+ },
+ "meta": {
+  "seconds": 6.1,
+  "usage": {
+   "completion_tokens": 188,
+   "prompt_tokens": 285,
+   "total_tokens": 473,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

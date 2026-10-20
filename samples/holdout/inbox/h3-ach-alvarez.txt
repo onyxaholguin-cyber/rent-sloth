@@ -1,0 +1,10 @@
+From: Summit State Bank <alerts@summitstate.example>
+Date: Thu, 3 Dec 2026 05:30:00 -0700
+Subject: Incoming ACH credit
+
+Incoming ACH credit to account ...2290
+Amount: $990.00
+Effective date: 12/03/2026
+Originator: ALVAREZ, BETH M
+Entry description: RENT
+Trace ID: 121042882210077

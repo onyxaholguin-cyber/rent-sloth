@@ -1,0 +1,13 @@
+{"month": "2026-12", "as_of": "2026-12-05",
+ "messages": {
+  "h1-paypal-kim": {"kind": "money_received", "payer": "Grace Kim", "amount": 1100, "date": "2026-12-01", "unit": "101"},
+  "h2-applecash-haddad": {"kind": "money_received", "payer": "Omar Haddad", "amount": 1475, "date": "2026-12-02", "unit": "102"},
+  "h3-ach-alvarez": {"kind": "money_received", "payer": "Beth Alvarez", "amount": 990, "date": "2026-12-03", "unit": "201"},
+  "h4-zelle-dunn-1": {"kind": "money_received", "payer": "Chris Dunn", "amount": 625, "date": "2026-12-01", "unit": "202"},
+  "h5-zelle-dunn-2": {"kind": "money_received", "payer": "Chris Dunn", "amount": 625, "date": "2026-12-04", "unit": "202"},
+  "h6-venmo-request-haddad": {"kind": "payment_request"},
+  "h7-security-alert": {"kind": "not_a_payment"},
+  "h8-venmo-paid-kim": {"kind": "money_sent"}
+ },
+ "units": {"101": "Paid", "102": "Paid", "201": "Paid", "202": "Paid"}
+}

@@ -1,0 +1,7 @@
+From: First Prairie Bank <noreply@firstprairie.example>
+Date: Wed, 4 Nov 2026 07:45:19 -0600
+Subject: Mobile deposit received
+
+We received your mobile check deposit of $300.00 on 11/04/2026.
+Check number: 1042
+Funds will be available by 11/05/2026.

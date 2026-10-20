@@ -1,0 +1,9 @@
+From: Venmo <venmo@venmo.example>
+Date: Fri, 2 Oct 2026 20:41:08 -0600
+Subject: Tom Becker paid you $1,400.00
+
+Tom Becker paid you $1,400.00
+"oct rent"
+
+Transaction ID 4198820017733
+Oct 2, 2026

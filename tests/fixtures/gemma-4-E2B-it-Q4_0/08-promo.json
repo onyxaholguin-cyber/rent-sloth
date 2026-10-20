@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "not_a_payment",
+  "payer": {
+   "value": "First Prairie Bank",
+   "quote": "From: First Prairie Bank"
+  },
+  "amount": {
+   "value": 500,
+   "quote": "$500"
+  },
+  "date": {
+   "value": "2026-11-02",
+   "quote": "Mon, 2 Nov 2026"
+  },
+  "memo": {
+   "value": "Get $50 when you open a High-Yield Savings account\nOpen a High-Yield Savings account by November 30, 2026 and deposit $500 to get a $50 bonus.\nTerms apply. This is an advertisement.",
+   "quote": "Get $50 when you open a High-Yield Savings account\nOpen a High-Yield Savings account by November 30, 2026 and deposit $500 to get a $50 bonus.\nTerms apply. This is an advertisement."
+  },
+  "reference": {
+   "value": "",
+   "quote": ""
+  }
+ },
+ "meta": {
+  "seconds": 9.3,
+  "usage": {
+   "completion_tokens": 279,
+   "prompt_tokens": 293,
+   "total_tokens": 572,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

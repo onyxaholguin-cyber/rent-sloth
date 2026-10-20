@@ -1,0 +1,8 @@
+From: Venmo <venmo@venmo.example>
+Date: Mon, 2 Nov 2026 10:00:12 -0600
+Subject: You requested $1,400.00 from Tom Becker
+
+You requested $1,400.00 from Tom Becker
+"Nov rent 3B"
+
+Request sent Nov 2, 2026. We'll let you know when Tom Becker pays.

@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "money_received",
+  "payer": {
+   "value": "First Prairie Bank",
+   "quote": "First Prairie Bank"
+  },
+  "amount": {
+   "value": 650.0,
+   "quote": "650.00"
+  },
+  "date": {
+   "value": "2026-11-03",
+   "quote": "11/03/2026"
+  },
+  "memo": {
+   "value": "ACH CREDIT PRIYA NAIR RENT PMT",
+   "quote": "ACH CREDIT PRIYA NAIR RENT PMT"
+  },
+  "reference": {
+   "value": "091000019283746",
+   "quote": "091000019283746"
+  }
+ },
+ "meta": {
+  "seconds": 9.3,
+  "usage": {
+   "completion_tokens": 223,
+   "prompt_tokens": 317,
+   "total_tokens": 540,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

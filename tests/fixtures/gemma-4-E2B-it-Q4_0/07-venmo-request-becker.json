@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "payment_request",
+  "payer": {
+   "value": "Tom Becker",
+   "quote": "Tom Becker"
+  },
+  "amount": {
+   "value": 1400,
+   "quote": "$1,400.00"
+  },
+  "date": {
+   "value": "2026-11-02",
+   "quote": "Mon, 2 Nov 2026 10:00:12 -0600"
+  },
+  "memo": {
+   "value": "Nov rent 3B",
+   "quote": "\"Nov rent 3B\""
+  },
+  "reference": {
+   "value": "",
+   "quote": ""
+  }
+ },
+ "meta": {
+  "seconds": 6.7,
+  "usage": {
+   "completion_tokens": 194,
+   "prompt_tokens": 298,
+   "total_tokens": 492,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

@@ -1,0 +1,5 @@
+unit,tenants,rent,due_day,grace_days
+101,Grace Kim,1100,1,5
+102,Omar Haddad;Lena Haddad,1475,1,5
+201,Beth Alvarez,990,3,3
+202,Chris Dunn,1250,1,5

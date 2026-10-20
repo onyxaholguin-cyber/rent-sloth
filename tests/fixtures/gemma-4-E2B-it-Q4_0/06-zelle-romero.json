@@ -1,0 +1,37 @@
+{
+ "reply": {
+  "kind": "money_received",
+  "payer": {
+   "value": "Ana Romero",
+   "quote": "Ana Romero"
+  },
+  "amount": {
+   "value": 1650.0,
+   "quote": "$1,650.00"
+  },
+  "date": {
+   "value": "2026-11-01",
+   "quote": "Nov 1, 2026"
+  },
+  "memo": {
+   "value": "",
+   "quote": "(none)"
+  },
+  "reference": {
+   "value": "ZL8851MB4",
+   "quote": "ZL8851MB4"
+  }
+ },
+ "meta": {
+  "seconds": 7.2,
+  "usage": {
+   "completion_tokens": 187,
+   "prompt_tokens": 289,
+   "total_tokens": 476,
+   "prompt_tokens_details": {
+    "cached_tokens": 178
+   }
+  },
+  "model": "../gemma-4-E2B-it-Q4_0.gguf"
+ }
+}

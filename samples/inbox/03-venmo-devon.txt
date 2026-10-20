@@ -1,0 +1,9 @@
+From: Venmo <venmo@venmo.example>
+Date: Sun, 1 Nov 2026 09:17:02 -0600
+Subject: Devon Price paid you $750.00
+
+Devon Price paid you $750.00
+"other half"
+
+Transaction ID 4271932210467
+Nov 1, 2026
